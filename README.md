@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucas-PythonDev
 - 👀 I’m interested in learning new concepts
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: sam0ilalucas01@gmail.com
 
 <!---
